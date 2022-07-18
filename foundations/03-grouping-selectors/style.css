@@ -1,0 +1,14 @@
+.option__one,
+.option__two {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.option__one {
+  background-color: black;
+  color: white;
+}
+
+.option__two {
+  background-color: yellow;
+}

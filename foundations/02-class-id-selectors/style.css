@@ -1,0 +1,22 @@
+.odd {
+  background-color: pink;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.oddly-cool {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 12px;
+}
+
+#two {
+  background-color: lightskyblue;
+  font-size: 15px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#four {
+  background-color: lightgreen;
+  font-size: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
